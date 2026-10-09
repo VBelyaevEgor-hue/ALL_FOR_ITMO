@@ -35,10 +35,13 @@ uint32_t quickSelect(vector<uint32_t>& arr, int k) {
                 i++;
             }
         }
-        // [l, lt-1] < pivot, [lt, gt] == pivot, [gt+1, r] > pivot
-        if (k < lt)      r = lt - 1;
-        else if (k > gt) l = gt + 1;
-        else             return pivot;
+        if (k < lt) {
+            r = lt - 1;
+        } else if (k > gt) {
+            l = gt + 1;
+        } else {
+            return pivot;
+        }
     }
     return arr[k];
 }
