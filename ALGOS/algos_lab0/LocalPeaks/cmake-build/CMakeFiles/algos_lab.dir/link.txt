@@ -1,0 +1,1 @@
+/usr/bin/c++ -Xlinker --dependency-file=CMakeFiles/algos_lab.dir/link.d CMakeFiles/algos_lab.dir/main.cpp.o -o algos_lab

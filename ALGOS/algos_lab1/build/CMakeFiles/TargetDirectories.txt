@@ -1,0 +1,9 @@
+/root/algos_lab1/build/CMakeFiles/B.dir
+/root/algos_lab1/build/CMakeFiles/C.dir
+/root/algos_lab1/build/CMakeFiles/D.dir
+/root/algos_lab1/build/CMakeFiles/F.dir
+/root/algos_lab1/build/CMakeFiles/G.dir
+/root/algos_lab1/build/CMakeFiles/H.dir
+/root/algos_lab1/build/CMakeFiles/I.dir
+/root/algos_lab1/build/CMakeFiles/edit_cache.dir
+/root/algos_lab1/build/CMakeFiles/rebuild_cache.dir
