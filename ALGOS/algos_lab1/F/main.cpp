@@ -18,17 +18,25 @@ uint32_t nextRand32(uint32_t a, uint32_t b) {
 }
 
 uint32_t quickSelect(vector<uint32_t>& arr, int k) {
-    int l = 0, r = (int)arr.size() - 1;
+    int l = 0;
+    int r = (int)arr.size() - 1;
     while (l < r) {
         uint32_t pivot = arr[l + rand() % (r - l + 1)];
 
-        int lt = l, i = l, gt = r;
+        int lt = l;
+        int i = l;
+        int gt = r;
         while (i <= gt) {
             if (arr[i] < pivot) {
-                uint32_t t = arr[lt]; arr[lt] = arr[i]; arr[i] = t;
-                lt++; i++;
+                uint32_t t = arr[lt];
+                arr[lt] = arr[i];
+                arr[i] = t;
+                lt++;
+                i++;
             } else if (arr[i] > pivot) {
-                uint32_t t = arr[gt]; arr[gt] = arr[i]; arr[i] = t;
+                uint32_t t = arr[gt];
+                arr[gt] = arr[i];
+                arr[i] = t;
                 gt--;
             } else {
                 i++;
