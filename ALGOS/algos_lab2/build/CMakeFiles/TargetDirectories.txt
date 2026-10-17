@@ -1,0 +1,8 @@
+/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/A.dir
+/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/B.dir
+/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/C.dir
+/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/D.dir
+/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/E.dir
+/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/F.dir
+/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/edit_cache.dir
+/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Xlinker --dependency-file=CMakeFiles/D.dir/link.d CMakeFiles/D.dir/D/main.cpp.o -o D
