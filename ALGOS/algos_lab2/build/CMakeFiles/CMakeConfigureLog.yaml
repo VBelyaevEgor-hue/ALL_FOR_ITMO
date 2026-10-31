@@ -20,10 +20,8 @@ events:
     names:
       - "uname"
     candidate_directories:
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -43,21 +41,19 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     searched_directories:
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/uname"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/uname"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/uname"
-      - "/root/.nvm/versions/node/v24.21.0/bin/uname"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/uname"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/uname"
       - "/usr/local/sbin/uname"
       - "/usr/local/bin/uname"
       - "/usr/sbin/uname"
     found: "/usr/bin/uname"
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -77,6 +73,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "message-v1"
     backtrace:
@@ -105,10 +103,8 @@ events:
       - "make"
       - "smake"
     candidate_directories:
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -128,21 +124,19 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     searched_directories:
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/gmake"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/gmake"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/gmake"
-      - "/root/.nvm/versions/node/v24.21.0/bin/gmake"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/gmake"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/gmake"
       - "/usr/local/sbin/gmake"
       - "/usr/local/bin/gmake"
       - "/usr/sbin/gmake"
     found: "/usr/bin/gmake"
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -162,6 +156,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "find-v1"
     backtrace:
@@ -188,10 +184,8 @@ events:
       - "icx"
       - "clang"
     candidate_directories:
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -211,21 +205,19 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     searched_directories:
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/cc"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/cc"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/cc"
-      - "/root/.nvm/versions/node/v24.21.0/bin/cc"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/cc"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/cc"
       - "/usr/local/sbin/cc"
       - "/usr/local/bin/cc"
       - "/usr/sbin/cc"
     found: "/usr/bin/cc"
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -245,6 +237,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "find-v1"
     backtrace:
@@ -272,10 +266,8 @@ events:
     found: "/usr/share/cmake-4.2/Modules/CMakeCCompilerId.c.in"
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -295,6 +287,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "message-v1"
     backtrace:
@@ -315,7 +309,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
       
       The C compiler identification is GNU, found in:
-        /root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/4.2.3/CompilerIdC/a.out
+        /home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/4.2.3/CompilerIdC/a.out
       
   -
     kind: "find-v1"
@@ -338,10 +332,8 @@ events:
       - "ar"
     candidate_directories:
       - "/usr/bin/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -360,13 +352,13 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     found: "/usr/bin/ar"
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -386,6 +378,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "find-v1"
     backtrace:
@@ -407,10 +401,8 @@ events:
       - "ranlib"
     candidate_directories:
       - "/usr/bin/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -429,13 +421,13 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     found: "/usr/bin/ranlib"
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -455,6 +447,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "find-v1"
     backtrace:
@@ -476,10 +470,8 @@ events:
       - "strip"
     candidate_directories:
       - "/usr/bin/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -498,13 +490,13 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     found: "/usr/bin/strip"
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -524,6 +516,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "find-v1"
     backtrace:
@@ -545,10 +539,8 @@ events:
       - "ld"
     candidate_directories:
       - "/usr/bin/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -567,13 +559,13 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     found: "/usr/bin/ld"
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -593,6 +585,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "find-v1"
     backtrace:
@@ -614,10 +608,8 @@ events:
       - "nm"
     candidate_directories:
       - "/usr/bin/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -636,13 +628,13 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     found: "/usr/bin/nm"
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -662,6 +654,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "find-v1"
     backtrace:
@@ -683,10 +677,8 @@ events:
       - "objdump"
     candidate_directories:
       - "/usr/bin/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -705,13 +697,13 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     found: "/usr/bin/objdump"
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -731,6 +723,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "find-v1"
     backtrace:
@@ -752,10 +746,8 @@ events:
       - "objcopy"
     candidate_directories:
       - "/usr/bin/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -774,13 +766,13 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     found: "/usr/bin/objcopy"
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -800,6 +792,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "find-v1"
     backtrace:
@@ -821,10 +815,8 @@ events:
       - "readelf"
     candidate_directories:
       - "/usr/bin/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -843,13 +835,13 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     found: "/usr/bin/readelf"
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -869,6 +861,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "find-v1"
     backtrace:
@@ -890,10 +884,8 @@ events:
       - "dlltool"
     candidate_directories:
       - "/usr/bin/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -912,12 +904,12 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     searched_directories:
       - "/usr/bin/dlltool"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/dlltool"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/dlltool"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/dlltool"
-      - "/root/.nvm/versions/node/v24.21.0/bin/dlltool"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/dlltool"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/dlltool"
       - "/usr/local/sbin/dlltool"
       - "/usr/local/bin/dlltool"
       - "/usr/sbin/dlltool"
@@ -936,13 +928,13 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/dlltool"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/dlltool"
       - "/snap/bin/dlltool"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/dlltool"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/dlltool"
     found: false
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -962,6 +954,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "find-v1"
     backtrace:
@@ -983,10 +977,8 @@ events:
       - "addr2line"
     candidate_directories:
       - "/usr/bin/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -1005,13 +997,13 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     found: "/usr/bin/addr2line"
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -1031,6 +1023,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "find-v1"
     backtrace:
@@ -1052,10 +1046,8 @@ events:
       - "tapi"
     candidate_directories:
       - "/usr/bin/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -1074,12 +1066,12 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     searched_directories:
       - "/usr/bin/tapi"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/tapi"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/tapi"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/tapi"
-      - "/root/.nvm/versions/node/v24.21.0/bin/tapi"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/tapi"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/tapi"
       - "/usr/local/sbin/tapi"
       - "/usr/local/bin/tapi"
       - "/usr/sbin/tapi"
@@ -1098,13 +1090,13 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/tapi"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/tapi"
       - "/snap/bin/tapi"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/tapi"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/tapi"
     found: false
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -1124,6 +1116,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "find-v1"
     backtrace:
@@ -1148,10 +1142,8 @@ events:
       - "gcc-ar"
     candidate_directories:
       - "/usr/bin/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -1170,12 +1162,12 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     searched_directories:
       - "/usr/bin/gcc-ar-15.2"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15.2"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/gcc-ar-15.2"
-      - "/root/.nvm/versions/node/v24.21.0/bin/gcc-ar-15.2"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/gcc-ar-15.2"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/gcc-ar-15.2"
       - "/usr/local/sbin/gcc-ar-15.2"
       - "/usr/local/bin/gcc-ar-15.2"
       - "/usr/sbin/gcc-ar-15.2"
@@ -1194,13 +1186,13 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/gcc-ar-15.2"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-15.2"
       - "/snap/bin/gcc-ar-15.2"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/gcc-ar-15.2"
     found: "/usr/bin/gcc-ar-15"
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -1220,6 +1212,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "find-v1"
     backtrace:
@@ -1244,10 +1238,8 @@ events:
       - "gcc-ranlib"
     candidate_directories:
       - "/usr/bin/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -1266,12 +1258,12 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     searched_directories:
       - "/usr/bin/gcc-ranlib-15.2"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15.2"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/gcc-ranlib-15.2"
-      - "/root/.nvm/versions/node/v24.21.0/bin/gcc-ranlib-15.2"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/gcc-ranlib-15.2"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/gcc-ranlib-15.2"
       - "/usr/local/sbin/gcc-ranlib-15.2"
       - "/usr/local/bin/gcc-ranlib-15.2"
       - "/usr/sbin/gcc-ranlib-15.2"
@@ -1290,13 +1282,13 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-15.2"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-15.2"
       - "/snap/bin/gcc-ranlib-15.2"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/gcc-ranlib-15.2"
     found: "/usr/bin/gcc-ranlib-15"
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -1316,6 +1308,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "find-v1"
     backtrace:
@@ -1349,10 +1343,8 @@ events:
     found: "/usr/bin/c++"
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -1372,6 +1364,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "find-v1"
     backtrace:
@@ -1399,10 +1393,8 @@ events:
     found: "/usr/share/cmake-4.2/Modules/CMakeCXXCompilerId.cpp.in"
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -1422,6 +1414,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "message-v1"
     backtrace:
@@ -1442,7 +1436,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
       
       The CXX compiler identification is Clang, found in:
-        /root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/4.2.3/CompilerIdCXX/a.out
+        /home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/4.2.3/CompilerIdCXX/a.out
       
   -
     kind: "find-v1"
@@ -1469,10 +1463,8 @@ events:
     candidate_directories:
       - "/usr/lib/llvm-21/bin/"
       - "/usr/bin/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -1491,13 +1483,13 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     searched_directories:
       - "/usr/lib/llvm-21/bin/llvm-ar-21.1"
       - "/usr/bin/llvm-ar-21.1"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/llvm-ar-21.1"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/llvm-ar-21.1"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/llvm-ar-21.1"
-      - "/root/.nvm/versions/node/v24.21.0/bin/llvm-ar-21.1"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/llvm-ar-21.1"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/llvm-ar-21.1"
       - "/usr/local/sbin/llvm-ar-21.1"
       - "/usr/local/bin/llvm-ar-21.1"
       - "/usr/sbin/llvm-ar-21.1"
@@ -1516,12 +1508,12 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/llvm-ar-21.1"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar-21.1"
       - "/snap/bin/llvm-ar-21.1"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/llvm-ar-21.1"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/llvm-ar-21.1"
       - "/usr/lib/llvm-21/bin/llvm-ar-21"
       - "/usr/bin/llvm-ar-21"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/llvm-ar-21"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/llvm-ar-21"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/llvm-ar-21"
-      - "/root/.nvm/versions/node/v24.21.0/bin/llvm-ar-21"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/llvm-ar-21"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/llvm-ar-21"
       - "/usr/local/sbin/llvm-ar-21"
       - "/usr/local/bin/llvm-ar-21"
       - "/usr/sbin/llvm-ar-21"
@@ -1540,12 +1532,12 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/llvm-ar-21"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar-21"
       - "/snap/bin/llvm-ar-21"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/llvm-ar-21"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/llvm-ar-21"
       - "/usr/lib/llvm-21/bin/llvm-ar21"
       - "/usr/bin/llvm-ar21"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/llvm-ar21"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/llvm-ar21"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/llvm-ar21"
-      - "/root/.nvm/versions/node/v24.21.0/bin/llvm-ar21"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/llvm-ar21"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/llvm-ar21"
       - "/usr/local/sbin/llvm-ar21"
       - "/usr/local/bin/llvm-ar21"
       - "/usr/sbin/llvm-ar21"
@@ -1564,12 +1556,12 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/llvm-ar21"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar21"
       - "/snap/bin/llvm-ar21"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/llvm-ar21"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/llvm-ar21"
       - "/usr/lib/llvm-21/bin/llvm-ar"
       - "/usr/bin/llvm-ar"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/llvm-ar"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/llvm-ar"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/llvm-ar"
-      - "/root/.nvm/versions/node/v24.21.0/bin/llvm-ar"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/llvm-ar"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/llvm-ar"
       - "/usr/local/sbin/llvm-ar"
       - "/usr/local/bin/llvm-ar"
       - "/usr/sbin/llvm-ar"
@@ -1588,13 +1580,13 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/llvm-ar"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar"
       - "/snap/bin/llvm-ar"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/llvm-ar"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/llvm-ar"
     found: false
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -1614,6 +1606,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "find-v1"
     backtrace:
@@ -1639,10 +1633,8 @@ events:
     candidate_directories:
       - "/usr/lib/llvm-21/bin/"
       - "/usr/bin/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -1661,13 +1653,13 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     searched_directories:
       - "/usr/lib/llvm-21/bin/llvm-ranlib-21.1"
       - "/usr/bin/llvm-ranlib-21.1"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/llvm-ranlib-21.1"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/llvm-ranlib-21.1"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/llvm-ranlib-21.1"
-      - "/root/.nvm/versions/node/v24.21.0/bin/llvm-ranlib-21.1"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/llvm-ranlib-21.1"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/llvm-ranlib-21.1"
       - "/usr/local/sbin/llvm-ranlib-21.1"
       - "/usr/local/bin/llvm-ranlib-21.1"
       - "/usr/sbin/llvm-ranlib-21.1"
@@ -1686,12 +1678,12 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/llvm-ranlib-21.1"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib-21.1"
       - "/snap/bin/llvm-ranlib-21.1"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/llvm-ranlib-21.1"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/llvm-ranlib-21.1"
       - "/usr/lib/llvm-21/bin/llvm-ranlib-21"
       - "/usr/bin/llvm-ranlib-21"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/llvm-ranlib-21"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/llvm-ranlib-21"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/llvm-ranlib-21"
-      - "/root/.nvm/versions/node/v24.21.0/bin/llvm-ranlib-21"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/llvm-ranlib-21"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/llvm-ranlib-21"
       - "/usr/local/sbin/llvm-ranlib-21"
       - "/usr/local/bin/llvm-ranlib-21"
       - "/usr/sbin/llvm-ranlib-21"
@@ -1710,12 +1702,12 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/llvm-ranlib-21"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib-21"
       - "/snap/bin/llvm-ranlib-21"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/llvm-ranlib-21"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/llvm-ranlib-21"
       - "/usr/lib/llvm-21/bin/llvm-ranlib21"
       - "/usr/bin/llvm-ranlib21"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/llvm-ranlib21"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/llvm-ranlib21"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/llvm-ranlib21"
-      - "/root/.nvm/versions/node/v24.21.0/bin/llvm-ranlib21"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/llvm-ranlib21"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/llvm-ranlib21"
       - "/usr/local/sbin/llvm-ranlib21"
       - "/usr/local/bin/llvm-ranlib21"
       - "/usr/sbin/llvm-ranlib21"
@@ -1734,12 +1726,12 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/llvm-ranlib21"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib21"
       - "/snap/bin/llvm-ranlib21"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/llvm-ranlib21"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/llvm-ranlib21"
       - "/usr/lib/llvm-21/bin/llvm-ranlib"
       - "/usr/bin/llvm-ranlib"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/llvm-ranlib"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/llvm-ranlib"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/llvm-ranlib"
-      - "/root/.nvm/versions/node/v24.21.0/bin/llvm-ranlib"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/llvm-ranlib"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/llvm-ranlib"
       - "/usr/local/sbin/llvm-ranlib"
       - "/usr/local/bin/llvm-ranlib"
       - "/usr/sbin/llvm-ranlib"
@@ -1758,13 +1750,13 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/llvm-ranlib"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib"
       - "/snap/bin/llvm-ranlib"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/llvm-ranlib"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/llvm-ranlib"
     found: false
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -1784,6 +1776,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "find-v1"
     backtrace:
@@ -1809,10 +1803,8 @@ events:
     candidate_directories:
       - "/usr/lib/llvm-21/bin/"
       - "/usr/bin/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/"
-      - "/root/.nvm/versions/node/v24.21.0/bin/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -1831,13 +1823,13 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/snap/bin/"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/"
     searched_directories:
       - "/usr/lib/llvm-21/bin/clang-scan-deps-21.1"
       - "/usr/bin/clang-scan-deps-21.1"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/clang-scan-deps-21.1"
-      - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/clang-scan-deps-21.1"
-      - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli/clang-scan-deps-21.1"
-      - "/root/.nvm/versions/node/v24.21.0/bin/clang-scan-deps-21.1"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli/clang-scan-deps-21.1"
+      - "/home/egor/.nvm/versions/node/v24.21.0/bin/clang-scan-deps-21.1"
       - "/usr/local/sbin/clang-scan-deps-21.1"
       - "/usr/local/bin/clang-scan-deps-21.1"
       - "/usr/sbin/clang-scan-deps-21.1"
@@ -1856,14 +1848,14 @@ events:
       - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps/clang-scan-deps-21.1"
       - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps-21.1"
       - "/snap/bin/clang-scan-deps-21.1"
+      - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/clang-scan-deps-21.1"
+      - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim/clang-scan-deps-21.1"
       - "/usr/lib/llvm-21/bin/clang-scan-deps-21"
     found: "/usr/bin/clang-scan-deps-21"
     search_context:
       ENV{PATH}:
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/root/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
-        - "/root/.vscode-server/bin/16507d91be0dc1ce4f94c04d4d0430210b8685d9/bin/remote-cli"
-        - "/root/.nvm/versions/node/v24.21.0/bin"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/remote-cli"
+        - "/home/egor/.nvm/versions/node/v24.21.0/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -1883,6 +1875,8 @@ events:
         - "/mnt/c/Users/Egor/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/Egor/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/snap/bin"
+        - "/home/egor/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/egor/.vscode-server/bin/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/bin/copilot-shim"
   -
     kind: "try_compile-v1"
     backtrace:
@@ -1892,8 +1886,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-HwAdcn"
-      binary: "/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-HwAdcn"
+      source: "/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-wfcgPR"
+      binary: "/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-wfcgPR"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "/usr/bin/clang-scan-deps-21"
       CMAKE_C_FLAGS: ""
@@ -1903,13 +1897,13 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-HwAdcn'
+        Change Dir: '/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-wfcgPR'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_1d900/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_1d900.dir/build.make CMakeFiles/cmTC_1d900.dir/build
-        gmake[1]: Entering directory '/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-HwAdcn'
-        Building C object CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.o
-        /usr/bin/cc   -v -o CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_c39b7/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_c39b7.dir/build.make CMakeFiles/cmTC_c39b7.dir/build
+        gmake[1]: Entering directory '/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-wfcgPR'
+        Building C object CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.o
+        /usr/bin/cc   -v -o CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c
         Using built-in specs.
         COLLECT_GCC=/usr/bin/cc
         OFFLOAD_TARGET_NAMES=nvptx-none:amdgcn-amdhsa
@@ -1919,8 +1913,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_1d900.dir/'
-         /usr/libexec/gcc/x86_64-linux-gnu/15/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_1d900.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccPtxabH.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_c39b7.dir/'
+         /usr/libexec/gcc/x86_64-linux-gnu/15/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_c39b7.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccGtEOec.s
         GNU C23 (Ubuntu 15.2.0-16ubuntu1) version 15.2.0 (x86_64-linux-gnu)
         	compiled by GNU C version 15.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.27-GMP
         
@@ -1937,14 +1931,14 @@ events:
          /usr/include
         End of search list.
         Compiler executable checksum: edd70396dcc669433a92073f97309866
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_1d900.dir/'
-         /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.o /tmp/ccPtxabH.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_c39b7.dir/'
+         /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.o /tmp/ccGtEOec.s
         GNU assembler version 2.46 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.46
         COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.'
-        Linking C executable cmTC_1d900
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1d900.dir/link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.'
+        Linking C executable cmTC_c39b7
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c39b7.dir/link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=/usr/bin/cc
         COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper
@@ -1957,14 +1951,14 @@ events:
         gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) 
         COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1d900' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_1d900.'
-         /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccYDOgPt.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_1d900 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_c39b7' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_c39b7.'
+         /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccTACToF.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_c39b7 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
         collect2 version 15.2.0
-        /usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccYDOgPt.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_1d900 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
+        /usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccTACToF.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_c39b7 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
         GNU ld (GNU Binutils for Ubuntu) 2.46
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1d900' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_1d900.'
-        /usr/bin/cc  -v -Wl,-v CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.o -o cmTC_1d900
-        gmake[1]: Leaving directory '/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-HwAdcn'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_c39b7' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_c39b7.'
+        /usr/bin/cc  -v -Wl,-v CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.o -o cmTC_c39b7
+        gmake[1]: Leaving directory '/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-wfcgPR'
         
       exitCode: 0
   -
@@ -1999,13 +1993,13 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-HwAdcn']
+        ignore line: [Change Dir: '/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-wfcgPR']
         ignore line: []
-        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_1d900/fast]
-        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_1d900.dir/build.make CMakeFiles/cmTC_1d900.dir/build]
-        ignore line: [gmake[1]: Entering directory '/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-HwAdcn']
-        ignore line: [Building C object CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.o]
-        ignore line: [/usr/bin/cc   -v -o CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_c39b7/fast]
+        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_c39b7.dir/build.make CMakeFiles/cmTC_c39b7.dir/build]
+        ignore line: [gmake[1]: Entering directory '/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-wfcgPR']
+        ignore line: [Building C object CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.o]
+        ignore line: [/usr/bin/cc   -v -o CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/cc]
         ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:amdgcn-amdhsa]
@@ -2015,8 +2009,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_1d900.dir/']
-        ignore line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_1d900.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccPtxabH.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_c39b7.dir/']
+        ignore line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_c39b7.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccGtEOec.s]
         ignore line: [GNU C23 (Ubuntu 15.2.0-16ubuntu1) version 15.2.0 (x86_64-linux-gnu)]
         ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.3.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -2033,14 +2027,14 @@ events:
         ignore line: [ /usr/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: edd70396dcc669433a92073f97309866]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_1d900.dir/']
-        ignore line: [ /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.o /tmp/ccPtxabH.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_c39b7.dir/']
+        ignore line: [ /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.o /tmp/ccGtEOec.s]
         ignore line: [GNU assembler version 2.46 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.46]
         ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.']
-        ignore line: [Linking C executable cmTC_1d900]
-        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1d900.dir/link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.']
+        ignore line: [Linking C executable cmTC_c39b7]
+        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c39b7.dir/link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/cc]
         ignore line: [COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper]
@@ -2053,13 +2047,13 @@ events:
         ignore line: [gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) ]
         ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1d900' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_1d900.']
-        link line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccYDOgPt.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_1d900 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_c39b7' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_c39b7.']
+        link line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccTACToF.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_c39b7 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
           arg [/usr/libexec/gcc/x86_64-linux-gnu/15/collect2] ==> ignore
           arg [-plugin] ==> ignore
           arg [/usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so] ==> ignore
           arg [-plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper] ==> ignore
-          arg [-plugin-opt=-fresolution=/tmp/ccYDOgPt.res] ==> ignore
+          arg [-plugin-opt=-fresolution=/tmp/ccTACToF.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -2077,7 +2071,7 @@ events:
           arg [-znow] ==> ignore
           arg [-zrelro] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_1d900] ==> ignore
+          arg [cmTC_c39b7] ==> ignore
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o]
@@ -2092,7 +2086,7 @@ events:
           arg [-L/lib] ==> dir [/lib]
           arg [-L/usr/lib] ==> dir [/usr/lib]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.o] ==> ignore
+          arg [CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.o] ==> ignore
           arg [-lgcc] ==> lib [gcc]
           arg [--push-state] ==> ignore
           arg [--as-needed] ==> ignore
@@ -2107,7 +2101,7 @@ events:
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
         ignore line: [collect2 version 15.2.0]
-        ignore line: [/usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccYDOgPt.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_1d900 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_1d900.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
+        ignore line: [/usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccTACToF.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_c39b7 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_c39b7.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
         linker tool for 'C': /usr/bin/ld
         collapse obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o] ==> [/usr/lib/x86_64-linux-gnu/Scrt1.o]
         collapse obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o] ==> [/usr/lib/x86_64-linux-gnu/crti.o]
@@ -2147,8 +2141,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-bM9evG"
-      binary: "/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-bM9evG"
+      source: "/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-5XxfKd"
+      binary: "/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-5XxfKd"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "/usr/bin/clang-scan-deps-21"
       CMAKE_CXX_FLAGS: ""
@@ -2159,13 +2153,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-bM9evG'
+        Change Dir: '/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-5XxfKd'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_dd143/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_dd143.dir/build.make CMakeFiles/cmTC_dd143.dir/build
-        gmake[1]: Entering directory '/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-bM9evG'
-        Building CXX object CMakeFiles/cmTC_dd143.dir/CMakeCXXCompilerABI.cpp.o
-        /usr/bin/c++   -v -MD -MT CMakeFiles/cmTC_dd143.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_dd143.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_dd143.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_5166f/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_5166f.dir/build.make CMakeFiles/cmTC_5166f.dir/build
+        gmake[1]: Entering directory '/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-5XxfKd'
+        Building CXX object CMakeFiles/cmTC_5166f.dir/CMakeCXXCompilerABI.cpp.o
+        /usr/bin/c++   -v -MD -MT CMakeFiles/cmTC_5166f.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_5166f.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_5166f.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp
         Ubuntu clang version 21.1.8 (6ubuntu1)
         Target: x86_64-pc-linux-gnu
         Thread model: posix
@@ -2175,7 +2169,7 @@ events:
         Candidate multilib: .;@m64
         Selected multilib: .;@m64
          (in-process)
-         "/usr/lib/llvm-21/bin/clang" -cc1 -triple x86_64-pc-linux-gnu -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -debugger-tuning=gdb -fdebug-compilation-dir=/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-bM9evG -v -fcoverage-compilation-dir=/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-bM9evG -resource-dir /usr/lib/llvm-21/lib/clang/21 -dependency-file CMakeFiles/cmTC_dd143.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_dd143.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/15/../../../../include/c++/15 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/15/../../../../include/x86_64-linux-gnu/c++/15 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/15/../../../../include/c++/15/backward -internal-isystem /usr/lib/llvm-21/lib/clang/21/include -internal-isystem /usr/local/include -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/15/../../../../x86_64-linux-gnu/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdeprecated-macro -ferror-limit 19 -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_dd143.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp
+         "/usr/lib/llvm-21/bin/clang" -cc1 -triple x86_64-pc-linux-gnu -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -debugger-tuning=gdb -fdebug-compilation-dir=/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-5XxfKd -v -fcoverage-compilation-dir=/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-5XxfKd -resource-dir /usr/lib/llvm-21/lib/clang/21 -dependency-file CMakeFiles/cmTC_5166f.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_5166f.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/15/../../../../include/c++/15 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/15/../../../../include/x86_64-linux-gnu/c++/15 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/15/../../../../include/c++/15/backward -internal-isystem /usr/lib/llvm-21/lib/clang/21/include -internal-isystem /usr/local/include -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/15/../../../../x86_64-linux-gnu/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdeprecated-macro -ferror-limit 19 -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_5166f.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp
         clang -cc1 version 21.1.8 based upon LLVM 21.1.8 default target x86_64-pc-linux-gnu
         ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/15/../../../../x86_64-linux-gnu/include"
         ignoring nonexistent directory "/include"
@@ -2189,8 +2183,8 @@ events:
          /usr/include/x86_64-linux-gnu
          /usr/include
         End of search list.
-        Linking CXX executable cmTC_dd143
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dd143.dir/link.txt --verbose=1
+        Linking CXX executable cmTC_5166f
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5166f.dir/link.txt --verbose=1
         Ubuntu clang version 21.1.8 (6ubuntu1)
         Target: x86_64-pc-linux-gnu
         Thread model: posix
@@ -2199,10 +2193,10 @@ events:
         Selected GCC installation: /usr/lib/gcc/x86_64-linux-gnu/15
         Candidate multilib: .;@m64
         Selected multilib: .;@m64
-         "/usr/bin/ld" -z relro --hash-style=gnu --build-id --eh-frame-hdr -m elf_x86_64 -pie -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_dd143 /lib/x86_64-linux-gnu/Scrt1.o /lib/x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib64 -L/lib -L/usr/lib -v CMakeFiles/cmTC_dd143.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /lib/x86_64-linux-gnu/crtn.o
+         "/usr/bin/ld" -z relro --hash-style=gnu --build-id --eh-frame-hdr -m elf_x86_64 -pie -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_5166f /lib/x86_64-linux-gnu/Scrt1.o /lib/x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib64 -L/lib -L/usr/lib -v CMakeFiles/cmTC_5166f.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /lib/x86_64-linux-gnu/crtn.o
         GNU ld (GNU Binutils for Ubuntu) 2.46
-        /usr/bin/c++  -v -Wl,-v CMakeFiles/cmTC_dd143.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_dd143
-        gmake[1]: Leaving directory '/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-bM9evG'
+        /usr/bin/c++  -v -Wl,-v CMakeFiles/cmTC_5166f.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_5166f
+        gmake[1]: Leaving directory '/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-5XxfKd'
         
       exitCode: 0
   -
@@ -2243,13 +2237,13 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-bM9evG']
+        ignore line: [Change Dir: '/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-5XxfKd']
         ignore line: []
-        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_dd143/fast]
-        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_dd143.dir/build.make CMakeFiles/cmTC_dd143.dir/build]
-        ignore line: [gmake[1]: Entering directory '/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-bM9evG']
-        ignore line: [Building CXX object CMakeFiles/cmTC_dd143.dir/CMakeCXXCompilerABI.cpp.o]
-        ignore line: [/usr/bin/c++   -v -MD -MT CMakeFiles/cmTC_dd143.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_dd143.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_dd143.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_5166f/fast]
+        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_5166f.dir/build.make CMakeFiles/cmTC_5166f.dir/build]
+        ignore line: [gmake[1]: Entering directory '/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-5XxfKd']
+        ignore line: [Building CXX object CMakeFiles/cmTC_5166f.dir/CMakeCXXCompilerABI.cpp.o]
+        ignore line: [/usr/bin/c++   -v -MD -MT CMakeFiles/cmTC_5166f.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_5166f.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_5166f.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Ubuntu clang version 21.1.8 (6ubuntu1)]
         ignore line: [Target: x86_64-pc-linux-gnu]
         ignore line: [Thread model: posix]
@@ -2261,7 +2255,7 @@ events:
         ignore line: [Selected multilib: .]
         ignore line: [@m64]
         ignore line: [ (in-process)]
-        ignore line: [ "/usr/lib/llvm-21/bin/clang" -cc1 -triple x86_64-pc-linux-gnu -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -debugger-tuning=gdb -fdebug-compilation-dir=/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-bM9evG -v -fcoverage-compilation-dir=/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-bM9evG -resource-dir /usr/lib/llvm-21/lib/clang/21 -dependency-file CMakeFiles/cmTC_dd143.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_dd143.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/15/../../../../include/c++/15 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/15/../../../../include/x86_64-linux-gnu/c++/15 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/15/../../../../include/c++/15/backward -internal-isystem /usr/lib/llvm-21/lib/clang/21/include -internal-isystem /usr/local/include -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/15/../../../../x86_64-linux-gnu/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdeprecated-macro -ferror-limit 19 -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_dd143.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [ "/usr/lib/llvm-21/bin/clang" -cc1 -triple x86_64-pc-linux-gnu -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -debugger-tuning=gdb -fdebug-compilation-dir=/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-5XxfKd -v -fcoverage-compilation-dir=/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles/CMakeScratch/TryCompile-5XxfKd -resource-dir /usr/lib/llvm-21/lib/clang/21 -dependency-file CMakeFiles/cmTC_5166f.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_5166f.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/15/../../../../include/c++/15 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/15/../../../../include/x86_64-linux-gnu/c++/15 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/15/../../../../include/c++/15/backward -internal-isystem /usr/lib/llvm-21/lib/clang/21/include -internal-isystem /usr/local/include -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/15/../../../../x86_64-linux-gnu/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdeprecated-macro -ferror-limit 19 -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_5166f.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [clang -cc1 version 21.1.8 based upon LLVM 21.1.8 default target x86_64-pc-linux-gnu]
         ignore line: [ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/15/../../../../x86_64-linux-gnu/include"]
         ignore line: [ignoring nonexistent directory "/include"]
@@ -2275,8 +2269,8 @@ events:
         ignore line: [ /usr/include/x86_64-linux-gnu]
         ignore line: [ /usr/include]
         ignore line: [End of search list.]
-        ignore line: [Linking CXX executable cmTC_dd143]
-        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dd143.dir/link.txt --verbose=1]
+        ignore line: [Linking CXX executable cmTC_5166f]
+        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5166f.dir/link.txt --verbose=1]
         ignore line: [Ubuntu clang version 21.1.8 (6ubuntu1)]
         ignore line: [Target: x86_64-pc-linux-gnu]
         ignore line: [Thread model: posix]
@@ -2287,7 +2281,7 @@ events:
         ignore line: [@m64]
         ignore line: [Selected multilib: .]
         ignore line: [@m64]
-        link line: [ "/usr/bin/ld" -z relro --hash-style=gnu --build-id --eh-frame-hdr -m elf_x86_64 -pie -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_dd143 /lib/x86_64-linux-gnu/Scrt1.o /lib/x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib64 -L/lib -L/usr/lib -v CMakeFiles/cmTC_dd143.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /lib/x86_64-linux-gnu/crtn.o]
+        link line: [ "/usr/bin/ld" -z relro --hash-style=gnu --build-id --eh-frame-hdr -m elf_x86_64 -pie -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_5166f /lib/x86_64-linux-gnu/Scrt1.o /lib/x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib64 -L/lib -L/usr/lib -v CMakeFiles/cmTC_5166f.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /lib/x86_64-linux-gnu/crtn.o]
           arg [/usr/bin/ld] ==> ignore
           arg [-zrelro] ==> ignore
           arg [--hash-style=gnu] ==> ignore
@@ -2299,7 +2293,7 @@ events:
           arg [-dynamic-linker] ==> ignore
           arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_dd143] ==> ignore
+          arg [cmTC_5166f] ==> ignore
           arg [/lib/x86_64-linux-gnu/Scrt1.o] ==> obj [/lib/x86_64-linux-gnu/Scrt1.o]
           arg [/lib/x86_64-linux-gnu/crti.o] ==> obj [/lib/x86_64-linux-gnu/crti.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o]
@@ -2312,7 +2306,7 @@ events:
           arg [-L/lib] ==> dir [/lib]
           arg [-L/usr/lib] ==> dir [/usr/lib]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_dd143.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [CMakeFiles/cmTC_5166f.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
           arg [-lstdc++] ==> lib [stdc++]
           arg [-lm] ==> lib [m]
           arg [-lgcc_s] ==> lib [gcc_s]

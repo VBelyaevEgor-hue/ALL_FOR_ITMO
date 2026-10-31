@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/A/main.cpp" "CMakeFiles/A.dir/A/main.cpp.o" "gcc" "CMakeFiles/A.dir/A/main.cpp.o.d"
+  "/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/A/main.cpp" "CMakeFiles/A.dir/A/main.cpp.o" "gcc" "CMakeFiles/A.dir/A/main.cpp.o.d"
   "" "A" "gcc" "CMakeFiles/A.dir/link.d"
   )
 

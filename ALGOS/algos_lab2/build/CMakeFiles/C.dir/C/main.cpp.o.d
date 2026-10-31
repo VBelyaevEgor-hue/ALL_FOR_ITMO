@@ -1,5 +1,5 @@
 CMakeFiles/C.dir/C/main.cpp.o: \
-  /root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/C/main.cpp \
+  /home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/C/main.cpp \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../../include/c++/15/iostream \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../../include/c++/15/bits/requires_hosted.h \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../../include/x86_64-linux-gnu/c++/15/bits/c++config.h \

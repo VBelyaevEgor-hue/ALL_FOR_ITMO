@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /root/ALL_FOR_ITMO-1/ALGOS/algos_lab2
+CMAKE_SOURCE_DIR = /home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build
+CMAKE_BINARY_DIR = /home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -100,14 +100,14 @@ clean: CMakeFiles/F.dir/clean
 CMakeFiles/A.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/A.dir/build.make CMakeFiles/A.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/A.dir/build.make CMakeFiles/A.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles --progress-num=1,2 "Built target A"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles --progress-num=1,2 "Built target A"
 .PHONY : CMakeFiles/A.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/A.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/A.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles 0
 .PHONY : CMakeFiles/A.dir/rule
 
 # Convenience name for target.
@@ -117,7 +117,7 @@ A : CMakeFiles/A.dir/rule
 # codegen rule for target.
 CMakeFiles/A.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/A.dir/build.make CMakeFiles/A.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles --progress-num=1,2 "Finished codegen for target A"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles --progress-num=1,2 "Finished codegen for target A"
 .PHONY : CMakeFiles/A.dir/codegen
 
 # clean rule for target.
@@ -132,14 +132,14 @@ CMakeFiles/A.dir/clean:
 CMakeFiles/B.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/B.dir/build.make CMakeFiles/B.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/B.dir/build.make CMakeFiles/B.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles --progress-num=3,4 "Built target B"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles --progress-num=3,4 "Built target B"
 .PHONY : CMakeFiles/B.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/B.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/B.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles 0
 .PHONY : CMakeFiles/B.dir/rule
 
 # Convenience name for target.
@@ -149,7 +149,7 @@ B : CMakeFiles/B.dir/rule
 # codegen rule for target.
 CMakeFiles/B.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/B.dir/build.make CMakeFiles/B.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles --progress-num=3,4 "Finished codegen for target B"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles --progress-num=3,4 "Finished codegen for target B"
 .PHONY : CMakeFiles/B.dir/codegen
 
 # clean rule for target.
@@ -164,14 +164,14 @@ CMakeFiles/B.dir/clean:
 CMakeFiles/C.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles --progress-num=5,6 "Built target C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles --progress-num=5,6 "Built target C"
 .PHONY : CMakeFiles/C.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/C.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/C.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles 0
 .PHONY : CMakeFiles/C.dir/rule
 
 # Convenience name for target.
@@ -181,7 +181,7 @@ C : CMakeFiles/C.dir/rule
 # codegen rule for target.
 CMakeFiles/C.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles --progress-num=5,6 "Finished codegen for target C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles --progress-num=5,6 "Finished codegen for target C"
 .PHONY : CMakeFiles/C.dir/codegen
 
 # clean rule for target.
@@ -196,14 +196,14 @@ CMakeFiles/C.dir/clean:
 CMakeFiles/D.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/D.dir/build.make CMakeFiles/D.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/D.dir/build.make CMakeFiles/D.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles --progress-num=7,8 "Built target D"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles --progress-num=7,8 "Built target D"
 .PHONY : CMakeFiles/D.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/D.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/D.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles 0
 .PHONY : CMakeFiles/D.dir/rule
 
 # Convenience name for target.
@@ -213,7 +213,7 @@ D : CMakeFiles/D.dir/rule
 # codegen rule for target.
 CMakeFiles/D.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/D.dir/build.make CMakeFiles/D.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles --progress-num=7,8 "Finished codegen for target D"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles --progress-num=7,8 "Finished codegen for target D"
 .PHONY : CMakeFiles/D.dir/codegen
 
 # clean rule for target.
@@ -228,14 +228,14 @@ CMakeFiles/D.dir/clean:
 CMakeFiles/E.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/E.dir/build.make CMakeFiles/E.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/E.dir/build.make CMakeFiles/E.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles --progress-num=9,10 "Built target E"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles --progress-num=9,10 "Built target E"
 .PHONY : CMakeFiles/E.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/E.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/E.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles 0
 .PHONY : CMakeFiles/E.dir/rule
 
 # Convenience name for target.
@@ -245,7 +245,7 @@ E : CMakeFiles/E.dir/rule
 # codegen rule for target.
 CMakeFiles/E.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/E.dir/build.make CMakeFiles/E.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles --progress-num=9,10 "Finished codegen for target E"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles --progress-num=9,10 "Finished codegen for target E"
 .PHONY : CMakeFiles/E.dir/codegen
 
 # clean rule for target.
@@ -260,14 +260,14 @@ CMakeFiles/E.dir/clean:
 CMakeFiles/F.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/F.dir/build.make CMakeFiles/F.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/F.dir/build.make CMakeFiles/F.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles --progress-num=11,12 "Built target F"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles --progress-num=11,12 "Built target F"
 .PHONY : CMakeFiles/F.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/F.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/F.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles 0
 .PHONY : CMakeFiles/F.dir/rule
 
 # Convenience name for target.
@@ -277,7 +277,7 @@ F : CMakeFiles/F.dir/rule
 # codegen rule for target.
 CMakeFiles/F.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/F.dir/build.make CMakeFiles/F.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/root/ALL_FOR_ITMO-1/ALGOS/algos_lab2/build/CMakeFiles --progress-num=11,12 "Finished codegen for target F"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/egor/ALL_FOR_ITMO/ALGOS/algos_lab2/build/CMakeFiles --progress-num=11,12 "Finished codegen for target F"
 .PHONY : CMakeFiles/F.dir/codegen
 
 # clean rule for target.
